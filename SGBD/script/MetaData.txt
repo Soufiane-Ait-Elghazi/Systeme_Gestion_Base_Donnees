@@ -1,0 +1,9 @@
+2
+BDinit/
+BDinit/tableinit.txt
+4.idinit|2.nomInit|
+BDTest/
+BDTest/table1.txt
+4.id|2.nom|2.age|
+BDTest/table2.txt
+4.numero|1.code|2.description|
